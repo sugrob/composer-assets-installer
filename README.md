@@ -35,7 +35,7 @@ Here is example of **composer.json**:
 }
 ```
 
-Now everything is ready to connect the new repository to your project. Only what you need is describe it in target project composer configuratuin. Here is an example of a minimal **composer.json**:
+Now everything is ready to connect the new repository to your project. Only what you need is describe it in target project composer configuratuion. Here is an example of a minimal **composer.json**:
 ```
 {
     "name": "vendor/project-name",
