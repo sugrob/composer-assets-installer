@@ -1,0 +1,18 @@
+{
+  "name": "sugrob/composer-assets-installer",
+  "type": "composer-plugin",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {"sugrob\\Composer\\": "src/"}
+  },
+  "extra": {
+    "class": "sugrob\\Composer\\AssetsInstallerPlugin"
+  },
+  "require": {
+    "composer-plugin-api": "^2.0"
+  },
+  "require-dev": {
+    "composer/composer": "^2.0"
+  }
+}
